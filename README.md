@@ -1,7 +1,7 @@
 ### Olá! Eu sou Andrei Nunes
 
-- Pretendo me tornar um desenvolvedor Fullstack
-- Estudando Algoritmo
+- Pretendo me tornar um desenvolvedor Back-end.
+- Estudando Algoritmo.
 - contate-me no email: andrei.nunes50@gmail.com
 - pronouns: ele/dele
 
