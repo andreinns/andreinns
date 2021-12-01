@@ -2,7 +2,7 @@
 
 - Pretendo me tornar um desenvolvedor Fullstack.
 - Estudando Algoritmo.
-- contate-me no email: andrei.nunes50@gmail.com
+- contato: andrei.nunes50@gmail.com
 
 <div>
   <a href="https://github.com/rafaballerini">
