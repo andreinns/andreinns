@@ -1,6 +1,6 @@
 ### Olá! Eu sou Andrei Nunes
 
-- Pretendo me tornar um desenvolvedor Fullstack.
+- Pretendo me tornar um desenvolvedor.
 - Estudando Javascript.
 - contato: andrei.nunes50@gmail.com
 
